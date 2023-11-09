@@ -1,5 +1,7 @@
 st='python'
 
 if st.upper() == "PYTHON":
-   print("Is upper")
+   print(True)
+else:
+   print(False)
   
